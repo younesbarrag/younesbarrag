@@ -180,10 +180,10 @@ currently_building:
     <img src="https://img.shields.io/badge/GitHub-younesbarrag-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-Add%20Your%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="[https://img.shields.io/badge/LinkedIn-Add%20Your%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/younes-barrag-66389129b/?skipRedirect=true)" alt="LinkedIn" />
   </a>
   <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-Add%20Your%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="[https://img.shields.io/badge/Email-Add%20Your%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://mail.google.com/mail/u/1/#inbox)" alt="Email" />
   </a>
 </p>
 
