@@ -1,198 +1,287 @@
-<!--
-  GitHub Profile README for Younes Barrag
-  Repo: https://github.com/younesbarrag/younesbarrag
-  Tip: upload this file as README.md in the profile repository named exactly: younesbarrag
--->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B1020,45:1E3A8A,75:7C3AED,100:FF2D20&text=Younes%20Barrag&fontSize=46&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Laravel%20Specialist%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=16" alt="Younes Barrag profile banner" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e1a2e,100:00b4d8&height=200&section=header&text=Younes%20Barrag&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Laravel%20Specialist%20%E2%80%A2%20AI%20Builder&descAlignY=58&descSize=18&descColor=7dd3fc&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+intelligent+web+experiences;Laravel+%2B+AI+%2B+Clean+Architecture;From+ideas+to+real+production-ready+apps;APIs%2C+Queues%2C+Auth%2C+Dashboards%2C+Automation" alt="Typing SVG" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/younesbarrag?tab=followers">
-    <img src="https://img.shields.io/github/followers/younesbarrag?label=Followers&style=for-the-badge&logo=github&color=00D4FF&labelColor=0B1020" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/younesbarrag?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-18-8B5CF6?style=for-the-badge&logo=github&labelColor=0B1020" alt="Repositories" />
-  </a>
-  <a href="https://github.com/younesbarrag">
-    <img src="https://komarev.com/ghpvc/?username=younesbarrag&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Building+production-grade+Laravel+APIs;Designing+AI-powered+backend+systems;Turning+complex+logic+into+clean+architecture;Async+queues%2C+jobs%2C+events+%E2%80%94+done+right)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Younes%20Barrag-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younes-barrag-66389129b/)
+[![Gmail](https://img.shields.io/badge/Email-younesbarrag003@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:younesbarrag003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-younesbarrag-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/younesbarrag)
+
+</div>
 
 ---
 
-<img align="right" width="370" src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" alt="Developer animation" />
+## ◈ About Me
 
-## 👋 About Me
+```php
+<?php
 
-I’m **Younes Barrag**, a **Full Stack Developer** focused on building modern web applications with **Laravel**, clean backend architecture, and practical **AI integrations**.
+namespace App\Developers;
 
-I enjoy turning real-world problems into useful products: authentication systems, dashboards, REST APIs, queue-based processing, AI assistants, content automation tools, and structured business workflows.
+class YounesBarrag extends BackendEngineer
+{
+    public string $location   = "Morocco 🇲🇦";
+    public string $focus      = "Laravel · REST APIs · AI Integration";
+    public array  $principles = ["Clean Architecture", "Async-first", "API-driven"];
 
-> **My focus:** building intelligent web experiences with clean code and modern technologies.
+    public function currentlyBuilding(): string
+    {
+        return "AI-powered Laravel backends that actually ship.";
+    }
 
-<br />
+    public function mindset(): string
+    {
+        return "Code is a craft. Architecture is a decision. Both matter.";
+    }
+}
+```
 
-### 🚀 What I’m building now
-
-- 🧠 **AI-powered Laravel applications** with queues, jobs, structured outputs, and API integrations.
-- 🔐 **Secure backend systems** using authentication, authorization, policies, form requests, and validation.
-- ⚙️ **REST APIs** for scalable products, admin dashboards, and automation workflows.
-- 📊 **Business tools** that transform messy data into clean, useful insights.
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,python,mysql,docker,git,github,vscode,postman&perline=6" alt="Tech stack icons" />
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center"><strong>Backend</strong></td>
-    <td>Laravel, PHP, REST APIs, Sanctum, Queues, Jobs, Policies, Events</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td>Blade, Tailwind CSS, JavaScript, TypeScript, responsive UI</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Database</strong></td>
-    <td>MySQL, migrations, relationships, seeders, factories</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>AI</strong></td>
-    <td>AI assistants, structured extraction, content generation, Laravel AI workflows</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Tools</strong></td>
-    <td>Git, GitHub, Docker, Postman, VS Code, OpenSpec, CodeRabbit</td>
-  </tr>
-</table>
+I'm a **Backend Engineer** focused on building well-structured Laravel applications — from async job pipelines and REST APIs to AI-integrated business tools. I care deeply about clean architecture, solid database design, and systems that are maintainable long after the first commit.
 
 ---
 
-## 🏆 Featured Projects
+## ◈ What I Build
 
 <table>
   <tr>
     <td width="50%">
-      <h3>⚡ <a href="https://github.com/younesbarrag/ThreadForge-API">ThreadForge API</a></h3>
-      <p>Headless Laravel REST API for creators. Transforms tech notes, articles, and README content into ready-to-publish social posts using async AI generation.</p>
-      <p><strong>Stack:</strong> Laravel, Sanctum, Queues, Jobs, AI, REST API</p>
+      <h4>⚡ Laravel Backend Systems</h4>
+      REST APIs, Sanctum auth, resource transformers, policy-based access control, and multi-tenant architectures.
     </td>
     <td width="50%">
-      <h3>🧠 <a href="https://github.com/younesbarrag/TalentMatch-Assistant-IA-">TalentMatch Assistant IA</a></h3>
-      <p>Recruitment assistant that analyzes candidates, compares CVs with job offers, generates scores, recommendations, and structured HR insights.</p>
-      <p><strong>Stack:</strong> Laravel, AI Analysis, MySQL, Blade, Policies</p>
+      <h4>🤖 AI-Integrated Applications</h4>
+      Laravel apps that call AI APIs, process async responses via queues, and surface structured outputs to clients.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>💸 <a href="https://github.com/younesbarrag/Assistant-D-penses">Assistant Dépenses</a></h3>
-      <p>Smart expense assistant for merchants. Extracts structured items from messy supplier receipts and turns them into clean expense data.</p>
-      <p><strong>Stack:</strong> Laravel, AI Extraction, Queues, Jobs, MySQL</p>
+      <h4>⚙️ Async Processing Pipelines</h4>
+      Queue workers, job chaining, event broadcasting, and scheduled commands — built for scale and reliability.
     </td>
     <td width="50%">
-      <h3>📌 <a href="https://github.com/younesbarrag/DEVTRACK">DEVTRACK</a></h3>
-      <p>Mini Jira-style project management app with projects, tasks, members, roles, policies, status tracking, archive and restore workflows.</p>
-      <p><strong>Stack:</strong> Laravel, Eloquent, Policies, Soft Deletes, CRUD</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎯 <a href="https://github.com/younesbarrag/CandidatureTracker">CandidatureTracker</a></h3>
-      <p>Application tracker for job seekers to organize applications, interviews, priorities, statuses, and follow-up history.</p>
-      <p><strong>Stack:</strong> Laravel, Breeze, Blade, MySQL</p>
-    </td>
-    <td width="50%">
-      <h3>🧪 <a href="https://github.com/younesbarrag/interviewprep">InterviewPrep</a></h3>
-      <p>AI-assisted interview training platform that helps developers practice concepts and prepare for technical interviews.</p>
-      <p><strong>Stack:</strong> Laravel, AI, MySQL, Blade</p>
+      <h4>🗄️ Database Architecture</h4>
+      MySQL schema design, Eloquent relationships, scoped queries, soft deletes, and performance-conscious migrations.
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧠 My Developer Mindset
+## ◈ Tech Stack
 
-```txt
-Problem first. Code second.
-Clean architecture over quick hacks.
-Small commits. Clear features. Real value.
-AI is powerful when it is structured, validated, and integrated properly.
-```
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=younesbarrag&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub trophies" />
-</p>
+**Languages & Runtimes**
 
----
+[![Skills](https://skillicons.dev/icons?i=php,js,ts,python,nodejs&theme=dark)](https://skillicons.dev)
 
-## 📊 GitHub Analytics
+**Frameworks & Libraries**
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=younesbarrag&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00D4FF&icon_color=FF2D20&text_color=FFFFFF" alt="Younes Barrag GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=younesbarrag&theme=tokyonight&hide_border=true&background=0B1020&ring=00D4FF&fire=FF2D20&currStreakLabel=00D4FF" alt="Younes Barrag GitHub streak" />
-</p>
+[![Skills](https://skillicons.dev/icons?i=laravel,tailwind,vite&theme=dark)](https://skillicons.dev)
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younesbarrag&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00D4FF&text_color=FFFFFF" alt="Most used languages" />
-</p>
+**Data & Infrastructure**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=younesbarrag&bg_color=0B1020&color=FFFFFF&line=00D4FF&point=FF2D20&area=true&hide_border=true" alt="GitHub activity graph" />
-</p>
+[![Skills](https://skillicons.dev/icons?i=mysql,docker,nginx,redis&theme=dark)](https://skillicons.dev)
 
----
+**Tooling & Workflow**
 
-## 🎯 2026 Focus
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark)](https://skillicons.dev)
 
-```yaml
-currently_learning:
-  - Advanced Laravel architecture
-  - API security with Sanctum
-  - Queues, Jobs, Events, Notifications
-  - Testing with Pest
-  - AI agents and structured AI workflows
-  - Docker-based development
+</div>
 
-currently_building:
-  - Laravel AI products
-  - Developer tools
-  - Automation APIs
-  - Smart dashboards
-```
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-00b4d8?style=flat-square)
+![Queues](https://img.shields.io/badge/Queues%20%26%20Jobs-0ea5e9?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI%20Integration-7c3aed?style=flat-square)
+
+</div>
 
 ---
 
-## 🤝 Let’s Connect
+## ◈ Featured Projects
 
-<p align="center">
-  <a href="https://github.com/younesbarrag">
-    <img src="https://img.shields.io/badge/GitHub-younesbarrag-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="[https://img.shields.io/badge/LinkedIn-Add%20Your%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/younes-barrag-66389129b/?skipRedirect=true)" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="[https://img.shields.io/badge/Email-Add%20Your%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://mail.google.com/mail/u/1/#inbox)" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Open to collaboration on Laravel, AI-powered apps, REST APIs, and clean backend systems.</strong>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/younesbarrag/ThreadForge-API">🔩 ThreadForge API</a>
+      </h3>
+      <p>
+        Headless Laravel REST API for content creators. Transforms tech articles, README files, and raw notes into ready-to-publish social posts using asynchronous AI generation.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Queues-0ea5e9?style=flat-square"/>
+        <img src="https://img.shields.io/badge/AI-7c3aed?style=flat-square"/>
+        <img src="https://img.shields.io/badge/REST%20API-00b4d8?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/younesbarrag/TalentMatch-Assistant-IA-">🧠 TalentMatch Assistant IA</a>
+      </h3>
+      <p>
+        AI-powered HR recruitment assistant. Analyzes candidate CVs against job offers, generates compatibility scores, structured recommendations, and actionable HR insights.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI%20Analysis-7c3aed?style=flat-square"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Policies-0ea5e9?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/younesbarrag/Assistant-D-penses">🧾 Assistant Dépenses</a>
+      </h3>
+      <p>
+        Smart expense assistant for merchants. Parses messy supplier receipts and extracts structured line items — amounts, products, quantities — into clean, searchable expense data.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI%20Extraction-7c3aed?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Queues%20%26%20Jobs-0ea5e9?style=flat-square"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/younesbarrag/DEVTRACK">📋 DEVTRACK</a>
+      </h3>
+      <p>
+        Mini Jira-style project management application. Projects, tasks, members, roles, policies, status tracking, with archive and restore workflows. Full CRUD with Eloquent.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Eloquent-FF2D20?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Policies-0ea5e9?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Soft%20Deletes-6b7280?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/younesbarrag/CandidatureTracker">📌 CandidatureTracker</a>
+      </h3>
+      <p>
+        Job application organizer for developers. Track applications, manage interview stages, priorities, statuses, and follow-up history in one clean dashboard.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Breeze-0ea5e9?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/younesbarrag/interviewprep">🎯 InterviewPrep</a>
+      </h3>
+      <p>
+        AI-assisted technical interview training platform. Helps developers practice backend concepts, review key patterns, and prepare for technical rounds with AI-generated feedback.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI-7c3aed?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF2D20,40:7C3AED,70:1E3A8A,100:0B1020" alt="Footer wave" />
-</p>
+## ◈ GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=younesbarrag&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=7dd3fc&text_color=c9d1d9&ring_color=0ea5e9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younesbarrag&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=6" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=younesbarrag&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=7c3aed&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=7dd3fc" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=younesbarrag&bg_color=0d1117&color=00b4d8&line=0ea5e9&point=7c3aed&area=true&hide_border=true" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=younesbarrag&theme=tokyonight&no-frame=true&column=6&row=1&margin-w=8" />
+
+</div>
+
+---
+
+## ◈ Developer Philosophy
+
+> **"Simplicity is the outcome of technical subtlety and deep thought — not the starting point."**
+
+- Architecture decisions outlive the code that implements them. Think before you abstract.
+- An API is a contract. Break it once and trust is gone.
+- Async isn't a trick — it's a commitment to never blocking the user's path.
+- The queue is your friend. The N+1 query is not.
+
+---
+
+## ◈ 2026 Focus
+
+<table>
+  <tr>
+    <td>🏗️</td>
+    <td><strong>Headless API Architecture</strong> — building truly decoupled backends that power any frontend or mobile client</td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td><strong>Production AI Pipelines</strong> — moving beyond demos to async, queue-based AI integrations that handle real workloads</td>
+  </tr>
+  <tr>
+    <td>📐</td>
+    <td><strong>Domain-Driven Design in Laravel</strong> — applying DDD principles to complex business logic at the service layer</td>
+  </tr>
+  <tr>
+    <td>🐳</td>
+    <td><strong>Docker & Deployment</strong> — containerizing Laravel apps for consistent, reproducible deployment environments</td>
+  </tr>
+</table>
+
+---
+
+## ◈ Let's Connect
+
+<div align="center">
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younes-barrag-66389129b/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send%20an%20Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:younesbarrag003@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Explore%20my%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/younesbarrag?tab=repositories)
+
+<br/>
+
+Open to **backend roles**, **API projects**, **AI-integrated systems**, and **freelance collaborations**.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0e1a2e,100:0d1117&height=100&section=footer" />
+
+</div>
