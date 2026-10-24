@@ -206,17 +206,16 @@ Mobile application developed during my internship, with document search, categor
 <br>
 
 
-### 📈 Contribution Activity
+## ◈ GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/younesbarrag">
-  <img
-    src="https://ghchart.rshah.org/22c9be/younesbarrag"
-    alt="Younes Barrag GitHub Contribution Graph"
-    width="95%"
-  />
-</a>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=younesbarrag&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=7dd3fc&text_color=c9d1d9&ring_color=0ea5e9" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younesbarrag&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=6" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=younesbarrag&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=7c3aed&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=7dd3fc" />
 
 </div>
 
