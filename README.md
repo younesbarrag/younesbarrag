@@ -205,11 +205,21 @@ Mobile application developed during my internship, with document search, categor
 
 <br>
 
+
 ### 📈 Contribution Activity
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=younesbarrag&bg_color=0D1117&color=38D9C6&line=38D9C6&point=FFFFFF&area=true&area_color=38D9C6&hide_border=true" alt="GitHub Activity Graph" />
+<div align="center">
+
+<a href="https://github.com/younesbarrag">
+  <img
+    src="https://ghchart.rshah.org/22c9be/younesbarrag"
+    alt="Younes Barrag GitHub Contribution Graph"
+    width="95%"
+  />
+</a>
 
 </div>
+
 
 ---
 
