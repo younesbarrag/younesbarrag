@@ -1,81 +1,103 @@
 
 <div align="center">
 
-# Hey, I'm Younes Barrag 👋
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=38D9C6&center=true&vCenter=true&width=800&height=60&lines=Hey%2C+I'm+Younes+Barrag+%F0%9F%91%8B;Full+Stack+Developer;Building+Digital+Solutions" alt="Younes Barrag" />
 
-### Full Stack Developer | Laravel • React • TypeScript • React Native
+**Full Stack Developer • Backend Engineering • Mobile Development**
 
-**Building reliable backends, modern interfaces & practical mobile applications.**
+*From robust backend systems to modern web and mobile experiences.*
 
-📍 Agadir, Morocco 🇲🇦
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younes-barrag-66389129b/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:younesbarrag003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/younesbarrag?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Younes_Barrag-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younes-barrag-66389129b/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:younesbarrag003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-My_Repositories-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/younesbarrag?tab=repositories)
 
-<br/>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=22C9BE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+REST+APIs+%7C+MySQL;React+%7C+TypeScript+%7C+Tailwind;React+Native+%7C+Expo;Clean+Code+%7C+Real+World+Solutions)
+![Profile Views](https://komarev.com/ghpvc/?username=younesbarrag&color=00bfa5&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 01 / About Me
 
-I'm a **junior Full Stack Developer** specializing in **PHP, Laravel, REST APIs and MySQL**, with hands-on experience in **React, TypeScript, JavaScript, React Native and Expo**.
+```php
+<?php
 
-I enjoy transforming business requirements into reliable, maintainable applications — from database design and backend architecture to intuitive frontend interfaces and mobile experiences.
+namespace App\Developers;
 
-- 🔭 Building full-stack web and mobile applications.
-- ⚙️ Focused on REST APIs, authentication, authorization and database design.
-- 🤖 Exploring AI-assisted workflows and asynchronous processing.
-- 🧪 Improving automated testing, CI/CD and code quality.
-- 🤝 Interested in junior developer opportunities and collaborative projects.
+class YounesBarrag
+{
+    public string $role = "Full Stack Developer";
+    public string $location = "Agadir, Morocco";
+
+    public array $expertise = [
+        "Backend"  => ["PHP", "Laravel", "REST APIs", "MySQL"],
+        "Frontend" => ["React", "TypeScript", "Tailwind CSS"],
+        "Mobile"   => ["React Native", "Expo", "SQLite"],
+        "Quality"  => ["Pest", "Git", "GitHub Actions"],
+    ];
+
+    public function mindset(): string
+    {
+        return "Build clean, reliable and useful software.";
+    }
+}
+```
+
+I'm a **junior Full Stack Developer** with a strong focus on Laravel backend development, REST APIs, and relational database design.
+
+I also work with **React, TypeScript, React Native and Expo**, allowing me to build complete solutions across web and mobile platforms.
+
+I value clean architecture, maintainability, problem-solving and continuous improvement.
 
 ---
 
-## 🛠️ Tech Stack
+## 02 / Tech Stack
 
 <div align="center">
 
-**Backend & Database**
+### Backend & Database
 
-![Backend](https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark)
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" alt="Backend technologies" />
 
-**Frontend & Mobile**
+`REST APIs` · `Laravel Sanctum` · `Eloquent ORM` · `Queues & Jobs`
 
-![Frontend](https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css&theme=dark)
+### Frontend & Mobile
 
-**Development Tools**
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind&theme=dark" alt="Frontend technologies" />
 
-![Tools](https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode&theme=dark)
+`React Native` · `Expo` · `Zustand` · `SQLite` · `Blade`
 
-**Also working with**
+### Tools & Workflow
 
-`Laravel Sanctum` · `Eloquent ORM` · `Pest` · `REST APIs` · `React Native` · `Expo` · `SQLite` · `Zustand` · `Queues & Jobs`
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode&theme=dark" alt="Development tools" />
+
+`Pest` · `Composer` · `NPM` · `Agile` · `Scrum` · `Kanban`
 
 </div>
 
 ---
 
-## 💼 Professional Experience
+## 03 / Professional Experience
 
-### Full Stack Developer Intern — 3LM Solutions
+### 💼 Full Stack Developer Intern — 3LM Solutions
 
-**July 2026 – September 2026**
+**July 2026 — September 2026**
 
-- Developed and improved a mobile document-management application.
-- Built search, filters, categories and user-preference features.
-- Worked with React Native, TypeScript, Expo and SQLite.
-- Participated in testing, bug fixing and code-quality improvements.
-- Collaborated using Git and pull requests.
+Worked on the development and improvement of a mobile document management application.
 
-**Technologies:** React Native · TypeScript · Expo · SQLite · Zustand
+- Developed search, filters, categories and user preferences.
+- Built and improved features using React Native and TypeScript.
+- Worked with local SQLite data and mobile application state.
+- Performed testing, debugging and quality improvements.
+- Collaborated through Git and pull requests.
+
+**Stack:** React Native · TypeScript · Expo · SQLite · Zustand
 
 ---
 
-## 🚀 Featured Projects
+## 04 / Featured Projects
 
 <table>
 <tr>
@@ -83,20 +105,30 @@ I enjoy transforming business requirements into reliable, maintainable applicati
 
 ### ⚡ [ThreadForge API](https://github.com/younesbarrag/ThreadForge-API)
 
-AI-assisted content generation through a secure REST API, using asynchronous jobs, authentication, validation and automated testing.
+AI-powered content generation REST API for transforming technical material into ready-to-publish content.
 
-**Stack:** Laravel · PHP · MySQL · Sanctum · Pest · Queues · GitHub Actions
+**Highlights**
+- Secure authentication with Sanctum
+- Asynchronous jobs and queues
+- Request validation and permissions
+- Automated testing and CI
+
+`Laravel` `PHP` `MySQL` `Pest` `AI`
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 Document Management App
+### 🤖 [TalentMatch](https://github.com/younesbarrag/TalentMatch-Assistant-IA-)
 
-Mobile document-management application featuring search, filters, categories, user settings and local data storage.
+AI-assisted recruitment application for managing candidates, offers and application analysis.
 
-**Stack:** React Native · TypeScript · Expo · SQLite · Zustand
+**Highlights**
+- Candidate and job management
+- Structured recruitment workflows
+- Authorization with policies
+- Secure forms and validation
 
-*Developed during my internship.*
+`Laravel` `MySQL` `Policies` `AI`
 
 </td>
 </tr>
@@ -105,38 +137,50 @@ Mobile document-management application featuring search, filters, categories, us
 
 ### 🧾 [Assistant Dépenses](https://github.com/younesbarrag/Assistant-D-penses)
 
-AI-assisted receipt processing that extracts, validates and stores structured expense data.
+Intelligent expense assistant that processes receipts into structured financial records.
 
-**Stack:** Laravel · PHP · MySQL · AI · Queues · Jobs
+**Highlights**
+- AI-assisted receipt extraction
+- Data validation
+- Background processing
+- Expense record management
+
+`Laravel` `MySQL` `Queues` `AI`
 
 </td>
 <td valign="top">
 
-### 🧠 [TalentMatch](https://github.com/younesbarrag/TalentMatch-Assistant-IA-)
+### 📋 [DevTrack](https://github.com/younesbarrag/DEVTRACK)
 
-HR recruitment platform supporting candidate management, job offers, application analysis and secure business workflows.
+Project and task management platform focused on structured workflows and access control.
 
-**Stack:** Laravel · PHP · MySQL · Policies · Form Requests
+**Highlights**
+- Project and task management
+- Roles and authorization policies
+- Priorities and deadlines
+- Authentication and business rules
+
+`Laravel` `Breeze` `Eloquent` `MySQL`
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-### 📋 [DevTrack](https://github.com/younesbarrag/DEVTRACK)
+### 📌 [CandidatureTracker](https://github.com/younesbarrag/CandidatureTracker)
 
-Project and task management application with roles, deadlines, priorities and access-control policies.
+Job application tracking solution to organize recruitment progress and follow-ups.
 
-**Stack:** Laravel · Breeze · Eloquent · MySQL
+`Laravel` `Blade` `MySQL`
 
 </td>
 <td valign="top">
 
-### 📌 [CandidatureTracker](https://github.com/younesbarrag/CandidatureTracker)
+### 📱 Document Management Mobile App
 
-Job application tracker for managing opportunities, recruitment stages and follow-up activities.
+Mobile application developed during my internship, with document search, categories, filters and user settings.
 
-**Stack:** Laravel · Blade · MySQL
+`React Native` `TypeScript` `Expo` `SQLite`
 
 </td>
 </tr>
@@ -144,52 +188,68 @@ Job application tracker for managing opportunities, recruitment stages and follo
 
 ---
 
-## 🎓 Education & Training
-
-| Education | Institution | Period |
-|---|---|---|
-| Backend Development | Simplon Maghreb | Mar – Jul 2026 |
-| Frontend Development | HTML5, CSS3, JavaScript, .NET | Jan – Jun 2025 |
-| Economics Degree | Université Ibn Zohr | 2025 – 2026 |
-
----
-
-## 📊 GitHub Analytics
+## 05 / GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=younesbarrag&show_icons=true&theme=tokyonight&hide_border=true)
+### 📊 Overall GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=younesbarrag&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img width="53%" src="https://github-readme-stats.vercel.app/api?username=younesbarrag&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38D9C6&icon_color=38D9C6&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics" />
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younesbarrag&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38D9C6&text_color=C9D1D9" alt="Top Languages" />
+
+<br>
+
+### 🔥 Contribution Streak
+
+<img width="80%" src="https://streak-stats.demolab.com/?user=younesbarrag&theme=tokyonight&hide_border=true&background=0D1117&ring=38D9C6&fire=FFB86C&currStreakLabel=38D9C6&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Commit Streak" />
+
+<br>
+
+### 📈 Contribution Activity
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=younesbarrag&bg_color=0D1117&color=38D9C6&line=38D9C6&point=FFFFFF&area=true&area_color=38D9C6&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
 ---
 
-## 🎯 My Development Approach
+## 06 / Education & Training
 
-> Write maintainable code. Solve real problems. Keep learning.
-
-- **Clean Code:** readable, structured and maintainable solutions.
-- **API Design:** consistent contracts, validation and access control.
-- **Database Design:** clear relationships, queries and migrations.
-- **Collaboration:** Git workflows, pull requests and teamwork.
-- **Continuous Learning:** improving testing, architecture and delivery.
+| Program | Institution | Period |
+|---|---|---|
+| Backend Development | Simplon Maghreb | Mar – Jul 2026 |
+| Frontend Development | HTML, CSS, JavaScript, .NET | Jan – Jun 2025 |
+| Economics Degree | Université Ibn Zohr | 2025 – 2026 |
 
 ---
 
-## 🤝 Let's Connect
+## 07 / Development Principles
+
+> Great software is not just about writing code. It's about solving problems and building systems that remain understandable and maintainable.
+
+- 🧱 **Architecture:** organize applications around clear responsibilities.
+- 🔐 **Security:** implement authentication, authorization and input validation.
+- ⚡ **Performance:** use queues and asynchronous processing where useful.
+- 🧪 **Quality:** test, debug and continuously improve.
+- 🤝 **Collaboration:** communicate clearly and use Git-based workflows.
+
+---
+
+## 08 / Let's Connect
 
 <div align="center">
 
-I'm interested in **Full Stack Development**, **Laravel Backend Engineering**, **Mobile Applications** and collaborative software projects.
+### Open to New Opportunities
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younes-barrag-66389129b/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:younesbarrag003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/younesbarrag)
+Interested in **Junior Full Stack Development**, **Laravel Backend Engineering**, **Mobile Development** and collaborative software projects.
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younes-barrag-66389129b/)
+[![Email](https://img.shields.io/badge/Send_Me_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:younesbarrag003@gmail.com)
 
-**Made with care in Morocco 🇲🇦**
+<br>
+
+**Code. Learn. Build. Improve.**
+
+<sub>Made with care in Agadir, Morocco 🇲🇦</sub>
 
 </div>
