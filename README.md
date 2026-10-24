@@ -210,11 +210,7 @@ Mobile application developed during my internship, with document search, categor
 ---
 
 
-### 🔥 Contribution Streak
 
-<img width="80%" src="https://streak-stats.demolab.com/?user=younesbarrag&theme=tokyonight&hide_border=true&background=0D1117&ring=38D9C6&fire=FFB86C&currStreakLabel=38D9C6&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Commit Streak" />
-
-<br>
 
 
 ### 📈 Contribution Activity
